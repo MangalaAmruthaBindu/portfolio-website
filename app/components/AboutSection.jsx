@@ -14,6 +14,7 @@ const TAB_DATA = [
         <li>html</li>
         <li>CSS</li>
         <li>Tailwind css</li>
+        <li>Typescript</li>
         <li>firebase</li>
         <li>figma</li>
         <li>convex</li>
